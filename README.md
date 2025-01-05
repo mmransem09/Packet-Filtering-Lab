@@ -1,4 +1,4 @@
-# PACKET FILTERING LAB
+# Packet Filtering Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
